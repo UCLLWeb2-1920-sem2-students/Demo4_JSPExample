@@ -1,0 +1,8 @@
+.idea/
+
+out/
+web/.DS_Store
+src/.DS_Store
+
+*.iml
+
